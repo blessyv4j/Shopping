@@ -1,0 +1,36 @@
+.background {
+    background-color: azure;
+    height: auto;
+}
+
+.title{
+    padding: 32px;
+    font-size: 32px;
+    margin: auto;
+}
+.productGrid{
+    height: 600px;
+}
+.innerGrid{
+    border: 1px solid black;
+    padding: 24px;
+}
+.price{
+    display: flex;
+    justify-content: end;
+    font-weight: bold;
+}
+.prodImg{
+    display: flex;
+    justify-content: center;
+}
+.prodTitle{
+    font-weight: bold;
+    font-size: 24px;
+    margin-bottom: 0px;
+}
+
+.button{
+    color: black;
+    margin: 12px;
+}
